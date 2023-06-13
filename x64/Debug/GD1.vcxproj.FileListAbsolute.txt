@@ -1,0 +1,5 @@
+C:\Users\Алексей\Desktop\GD1\x64\Debug\GD1.vcxproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\GD1\x64\Debug\GD1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Алексей\Desktop\GD1\x64\Debug\GD1.MyForm.resources
+C:\Users\Алексей\Desktop\GD1\x64\Debug\GD1.vcxproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\GD1\x64\Debug\GD1.exe

@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Алексей\Desktop\GD1\MyForm.cpp(17,27): warning C4101: e: неиспользованная локальная переменная
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  GD1.vcxproj -> C:\Users\Алексей\Desktop\GD1\x64\Debug\GD1.exe
